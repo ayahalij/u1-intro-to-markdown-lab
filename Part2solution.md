@@ -1,5 +1,7 @@
 # HTML Boilerplate
 
+![HTML](https://media.istockphoto.com/id/1391198660/photo/hands-printing-on-laptop-banner.jpg?s=1024x1024&w=is&k=20&c=WUV9wg9qgNs28vEAoVuvLtQ7Ej-rHlmEWJLwG2MpUX4=)
+
 **When starting a new web project, setting up a solid foundation** is crucial. An *HTML* boilerplate serves as this foundation, providing a standard starting point that ensures best practices and compatibility across different browsers.
 
 ```HTML
@@ -42,7 +44,7 @@ An HTML Boilerplate typically includes the following components:
 
 # 4.Essential Elements of an HTML Boilerplate
 
->**Table of Content**
+>### Table of Content
 >>* Doctype Declaration
 >>* HTML Tag and Language Attribute
 >>* Head Section
